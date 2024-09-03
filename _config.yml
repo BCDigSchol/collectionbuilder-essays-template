@@ -30,6 +30,17 @@ description: "CollectionBuilder-GH is a template for creating small digital coll
 author: CollectionBuilder
 
 ##########
+nav-menu:
+  - title: About
+    url: /about/
+  - title: Methods
+    url: /exhibit/
+  - title: Analysis
+    url: /analysis/
+  - title: Future Directions
+    url: /future-directions/
+
+##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 

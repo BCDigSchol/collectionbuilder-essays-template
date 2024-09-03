@@ -15,6 +15,7 @@ README.md # general readme (this file). Replace it with some kind of short intro
 CITATION.cff # general citation file for automated citation software. Increases your visibility
 _config.yml # general site configuration, where you must specify the name of the metadata file you will put in _data
 _data/*.csv # various specific site settings, AND where you must put your metadata file
+/objects # where you put all the images you want to store
 /assets/img # where you want to put images (other than those directly in the collection) that you want to include on the site (like your featured imaged)
 ```
 Continue reading for links to tutorials on how to use this repository below!
